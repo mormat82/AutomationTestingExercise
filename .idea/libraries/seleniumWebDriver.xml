@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="seleniumWebDriver">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/seleniumWebDriver/client-combined-3.14.0.jar!/" />
+      <root url="file://$USER_HOME$/seleniumWebDriver" />
+      <root url="file://$USER_HOME$/seleniumWebDriver/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/seleniumWebDriver/client-combined-3.14.0-sources.jar!/" />
+      <root url="file://$USER_HOME$/seleniumWebDriver" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/seleniumWebDriver" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/seleniumWebDriver/libs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/seleniumWebDriver" recursive="false" type="SOURCES" />
+  </library>
+</component>
