@@ -28,6 +28,12 @@ public class FirstTest {
         driver.findElement(By.id("email_create")).sendKeys("test73g@ter.com");
         driver.findElement(By.id("SubmitCreate")).click();
         Thread.sleep(5000);
+        driver.findElement(By.id("id_gender1")).click();
+        driver.findElement(By.id("customer_firstname")).sendKeys("Czesiu");
+        driver.findElement(By.id("customer_lastname")).sendKeys("Polak");
+        driver.findElement(By.id("passwd")).sendKeys("password1");
+
+        Thread.sleep(5000);
     }
 
     @After
